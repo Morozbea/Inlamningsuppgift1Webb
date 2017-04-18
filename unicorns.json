@@ -1,0 +1,15 @@
+{
+  "unicorns": [
+	{
+    "id": "1",
+    "name": "Nordsvensk travhörning",
+    "details": "http://unicorns.idioti.se/1"
+  },
+  {
+    "id": "2",
+    "name": "Karibisk strandponny",
+    "details": "http://unicorns.idioti.se/2"
+  }
+
+  ]
+}
